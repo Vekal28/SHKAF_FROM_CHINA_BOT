@@ -2,10 +2,10 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 btn1 = InlineKeyboardButton(text="Калькулятор", callback_data="convert")
 btn2 = InlineKeyboardButton(text="Поддержка", url="https://t.me/trivia_manager")
-btn3 = InlineKeyboardButton(text="Канал в телеграме", url="https://t.me/poizonrb")
+btn3 = InlineKeyboardButton(text="Канал в телеграме", url="https://t.me/+akJZbLiGx6cyMjAy")
 btn4 = InlineKeyboardButton(text="Оформить заказ", url="https://t.me/trivia_manager")
 btn5 = InlineKeyboardButton(text="Главное меню", callback_data="menu")
-btn6 = InlineKeyboardButton(text="Отзывы", url="https://t.me/poizon_rb_feedback")
+btn6 = InlineKeyboardButton(text="Отзывы", url="https://t.me/shkaf_feedback")
 btn_1 = InlineKeyboardButton(text="Обувь/куртки", callback_data="shoes_jackets")
 btn_2 = InlineKeyboardButton(text="Кофты/штаны", callback_data="sweatshirts_pants")
 btn_3 = InlineKeyboardButton(text="Сумки/рюкзаки", callback_data="bags_backpacks")
